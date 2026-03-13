@@ -10,7 +10,7 @@ public class ByteOutStream {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		byte[] b= new byte[120];
+		byte[] b= new byte[128];
 		
 		try
 		{
