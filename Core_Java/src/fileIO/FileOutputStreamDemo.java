@@ -15,6 +15,7 @@ public class FileOutputStreamDemo {
 			
 			output.write(array);
 			output.close();
+			System.out.println();
 		}
 		catch(Exception e)
 		{
