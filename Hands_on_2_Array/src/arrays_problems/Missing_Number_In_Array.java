@@ -1,6 +1,5 @@
 package arrays_problems;
 
-import java.util.Scanner;
 
 public class Missing_Number_In_Array {
 
