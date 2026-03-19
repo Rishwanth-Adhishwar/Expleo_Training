@@ -13,7 +13,7 @@ public class Missing_Number_In_Array {
 		{
 			sum+=a[i];
 		}
-		
+		System.out.println();
 		int real=(n*(n+1))/2;
 		
 		System.out.print("The Missing Number is: "+(real-sum));
